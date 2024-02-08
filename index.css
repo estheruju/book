@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background: none;
+    font-family: 'Kalam', cursive;
+}
+
+.container{
+    background-color: white;
+    margin: 4rem;
+    
+}
+h3{
+    background-color:red;
+    border-radius: 0 0 20px 20px;
+    text-align: center;
+    
+
+}
+
+.letter , .p{
+    border: 1.5 solid red;
+    padding: 2rem 0;
+    justify-content: center;
+    text-align: center;
+}
